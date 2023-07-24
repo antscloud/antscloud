@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**antscloud/antscloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🥐 I live in France 
+- 🧑‍💻 Passionate about coding and problem-solving.
+- 🔬 I worked for three years at CNRS
+- 🎸 I also like music 
+- 🌱 I’m currently learning Rust
+- 🔭 I’m currently working on a media origanizer in Rust. Coming soon.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎸 **FretBoardGTR**: [FretBoardGTR](https://github.com/antscloud/fretboardgtr)
+
+## Technologies
+
+- Programming Languages: Python, Rust, Bash, JavaScript
+- Web Development: Vue.js, Django, Flask
+- Tools: Git, Docker
+- Data Science: Pandas, NumPy
+- CI/CD: Github Actions, GitLab CI/CD
+
+## Let's Connect!
+
+Feel free to reach out for collaboration or to discuss any interesting projects. You can find me on [LinkedIn](https://www.linkedin.com/in/yourname/)
