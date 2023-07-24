@@ -22,4 +22,4 @@
 
 ## Let's Connect!
 
-Feel free to reach out for collaboration or to discuss any interesting projects. You can find me on [LinkedIn](https://www.linkedin.com/in/yourname/)
+Feel free to reach out for collaboration or to discuss any interesting projects. You can find me on [LinkedIn](https://www.linkedin.com/in/antoine-gibek-7739a9169/)
